@@ -372,7 +372,7 @@
     @media (max-width: 699px) {
       h1 .orange { margin-top: .12em; }
     }
-    @media (min-width: 700px) {
+    @media (min-width: 900px) {
       .container { width: min(var(--max-width), calc(100% - 96px)); }
       .site-header { padding: 25px 0; }
       .nav-logo { width: 86px; }
